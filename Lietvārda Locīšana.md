@@ -1,5 +1,7 @@
 # Lietvārda Locīšana
 
+![images](images/lietvarda_locisana.png)
+
 ## Vienskaitlis
 
 ||Nominatīvs<br>kas (ir)?|Ģenitīvs<br>kā (nav)?|Datīvs<br>kam?|Akuzatīvs<br>ko?|Instrumentālis<br>ar ko?|Lokatīvs<br> kur? kad?

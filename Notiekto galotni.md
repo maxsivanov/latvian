@@ -1,9 +1,10 @@
 # Notiekto galotni
 [Окончания по падежам]([[Īpašības vārda Locīšana]].md)
 
-## Прилагательное в понятиях
+## Прилагательное в понятиях и названиях
 * brūn**ais** lacis
 * mobil**ais** telefons
+* Melnā jūra
 
 ## Порядковые числительные
 * pirm**ie** ziedi
@@ -11,7 +12,7 @@
 ##  Всегда требуют определенные слова 
 * pēdējais/ā -- последний
 * vienīgais/ā -- первый
-* priekšējā
+* priekšējā -- предидущий
 * tehniskā (apkope) -- технический (осмотр)
 * nacionālais -- национальный
 * centrālais, galvenais -- центральный, главный
