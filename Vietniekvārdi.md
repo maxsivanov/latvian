@@ -1,27 +1,36 @@
-# Norādāmie vietniekvārdi (Указательные местоимения)
+# Vietniekvārdi
+## Manu - Savu
 
-## Там (дальше)
+Если мы участвуем в действии - **Sava**
+* Es runaju ar savu meitu
+
+Если не участвуем в действии - **Mana**
+* Mana meita apmekē kursos
+
+## Norādāmie vietniekvārdi (Указательные местоимения)
+
+### Там (дальше)
 
 * tas - то
 * tie - те
 * tā - та
 * tās - те (S.dz)
 
-## Здесь
+### Здесь
 
 * šis - это
 * šie - эти
 * šī - эта
 * šīs - эти (S.dz)
 
-## Vienskaitlis
+### Vienskaitlis
 
 ||Nominatīvs<br>kas (ir)?|Ģenitīvs<br>kā (nav)?|Datīvs<br>kam?|Akuzatīvs<br>ko?|Instrumentālis<br>ar ko?|Lokatīvs<br> kur? kad?
 |--|--|--|--|--|--|--|
 V.dz|tas/šis galds|tā/šā galda|tam/šim galdam|to/šo galtu|ar to/šo galdu|tajā/šajā galdā
 S.dz|tā/ši roka|tās/šās rokas|tai/šai rokai|to/šo roku|ar to/šo roku|tajā/šaja rokā
 
-## Daudzskaitlis
+### Daudzskaitlis
 
 ||Nominatīvs<br>kas (ir)?|Ģenitīvs<br>kā (nav)?|Datīvs<br>kam?|Akuzatīvs<br>ko?|Instrumentālis<br>ar ko?|Lokatīvs<br> kur? kad?
 |--|--|--|--|--|--|--|

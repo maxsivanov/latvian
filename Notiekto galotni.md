@@ -21,7 +21,7 @@
 * Dārg**ās** kolēģes
 
 ## После указательных и притяжательных местоимений
-* [šis, ši, tas, tā ...]([[Norādāmie vietniekvārdi]].md)
+* [šis, ši, tas, tā ...]([[Vietniekvārdi]].md)
 * mana, tava, mūsu, jūsu, savs, sava ...
 
 ## Второе умоминание
