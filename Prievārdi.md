@@ -41,12 +41,13 @@ pa|по|дать всем по конфете
 |-|-|-|
 uz (kurieni?)||
 pa|по|по дороге
-ap||
-gar||
-caur||
-pār||
-pret||
-starp||
-par|Sega ir gaišāka par spilviniem|чем|
-ar||
+ap||вокруг, около
+gar||вдоль, мимо
+caur||через (насквозь)
+pār|pār tiltu|через
+pret|pret veju<br>atieksme pret desa|против<br>к (отношение к колбасе)
+starp||между
+par|Es lasu par cilvēku<br>Sega ir gaišāka par spilviniem<br>Par ko tu strādā<br>Par vienu euro|про/чем/кем/за(сколько)|
+ar||с чем/на чем
+pa||по
 

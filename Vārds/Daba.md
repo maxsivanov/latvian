@@ -24,3 +24,6 @@ apvienot||обьеденять
 riciba||поступки
 vākt|vākt atkritumus|собирать мусор
 sakopt|sakopt mežu, apkārtni|убирать
+nomalē|Tā ir pilsētas nomalē|на окраине
+vākt atkritums||собирать мусор
+bez atlīdzības||без вознаграждения
